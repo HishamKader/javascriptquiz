@@ -11,6 +11,10 @@ body {
   float: inline-end;
 }
 
+p{
+  width: 40%
+}
+
 h2 {
   font-size: 3em;
   margin: 0px;
